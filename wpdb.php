@@ -5,7 +5,7 @@ declare(strict_types=1);
 /**
  * Plugin Name:     WP Database
  * Plugin URI:      https://github.com/valenjeb/wpdb
- * Description:     PLUGIN DESCRIPTION HERE
+ * Description:     SQL query builder for interacting with the WordPress database in OOP style
  * Author:          Valentin Jebelev
  * Author URI:      https://github.com/valenjeb
  * Text Domain:     wpdb
